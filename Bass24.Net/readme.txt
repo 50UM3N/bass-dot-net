@@ -180,3 +180,5 @@ Third party intellectual property rights
 BASS.NET is a .Net wrapper of the product BASS (www.un4seen.com). In order to use BASS.NET an additional BASS license needs to be obtained separately.
 MP3 technology is patented, and so the use of the BASS MP3 decoder in the PRODUCTS requires the LICENSEE to have a patent license from Thomson (www.mp3licensing.com).
 Alternatively, the LICENSEE does not need a patent license if BASS is set to use the already licensed Windows MP3 decoder.
+
+http://bass.radio42.com/index.html
